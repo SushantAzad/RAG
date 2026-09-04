@@ -1,0 +1,24 @@
+FEATURE SPEC: DARK MODE
+
+Status: In development
+Owner: Product - Platform Team
+Target Release: Q4 2025
+
+PROBLEM STATEMENT
+Dark mode is one of the most frequently requested features in our app store reviews and support tickets, cited in roughly 8% of all feature request tickets over the past year. Competitors have offered this for over two years.
+
+REQUIREMENTS
+- System setting sync: app should default to matching the device's OS level light/dark setting
+- Manual override: users can override the system setting within the app's display preferences
+- Persisted preference: the choice should persist across sessions and sync across the user's devices if signed in
+- All screens must meet WCAG AA contrast requirements in both light and dark themes
+
+OUT OF SCOPE
+- Custom theme colors beyond light and dark are not included in this release
+- Scheduled auto switching (e.g., dark mode only after sunset) is not included in this release, but is a candidate for a future iteration
+
+DESIGN NOTES
+The design team has delivered a full dark theme token set covering all core components. Any new component built going forward must include both light and dark tokens before it can be merged, per the updated component contribution guidelines.
+
+ROLLOUT PLAN
+Feature will roll out behind a feature flag to 10% of users initially, expanding to 100% over two weeks assuming no elevated crash rate or accessibility complaints.

@@ -1,0 +1,37 @@
+RETIREMENT SAVINGS PLAN (401K) OVERVIEW
+
+Plan Administrator: Fidelity Investments
+Plan Effective Date: January 1, 2020
+
+ELIGIBILITY
+All employees are eligible to enroll in the 401(k) plan starting on their first day of employment. There is no waiting period.
+
+COMPANY MATCH
+The company matches 100% of employee contributions up to the first 3% of salary, and 50% of contributions between 3% and 5% of salary. This means an employee contributing 5% of their salary receives a full 4% company match, for a combined total contribution of 9%.
+
+Example:
+- Employee salary: $80,000
+- Employee contributes 5%: $4,000/year
+- Company match: 3% at 100% ($2,400) + 2% at 50% ($800) = $3,200/year
+- Total annual contribution: $7,200
+
+VESTING SCHEDULE
+Employee contributions are always 100% vested immediately. Company matching contributions vest according to the following schedule:
+
+Year 1: 0% vested
+Year 2: 25% vested
+Year 3: 50% vested
+Year 4: 75% vested
+Year 5: 100% vested
+
+CONTRIBUTION LIMITS
+Annual contribution limits follow IRS guidelines and are updated each year. Employees over age 50 are eligible for catch up contributions in addition to the standard limit.
+
+INVESTMENT OPTIONS
+The plan offers 22 investment funds ranging from conservative bond funds to aggressive growth equity funds, as well as target date retirement funds aligned to expected retirement year. Employees can change their investment allocations at any time through the Fidelity NetBenefits portal.
+
+LOANS AND HARDSHIP WITHDRAWALS
+Employees may borrow against their vested balance up to 50% of the vested amount or $50,000, whichever is less. Hardship withdrawals are permitted under IRS approved circumstances such as medical expenses, purchase of a primary residence, or prevention of eviction.
+
+ROLLOVER
+Employees who join with an existing 401(k) or IRA balance from a previous employer may roll those funds into the company plan. Contact Fidelity directly to initiate a rollover.

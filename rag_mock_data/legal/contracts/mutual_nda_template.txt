@@ -1,0 +1,29 @@
+MUTUAL NON-DISCLOSURE AGREEMENT (TEMPLATE)
+
+Note: This is a mock template document for testing purposes, not a real legal contract.
+
+This Mutual Non-Disclosure Agreement ("Agreement") is a standard template used when discussing potential partnerships, vendor relationships, or joint business opportunities.
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any non-public information disclosed by either party, whether orally, in writing, or in any other form, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and circumstances of disclosure.
+
+2. EXCLUSIONS
+Confidential Information does not include information that: (a) is or becomes publicly available through no fault of the receiving party; (b) was rightfully known to the receiving party prior to disclosure; (c) is rightfully obtained from a third party without restriction; or (d) is independently developed without use of the disclosing party's Confidential Information.
+
+3. OBLIGATIONS
+Each party agrees to: (a) use the other party's Confidential Information solely for the purpose of evaluating the potential business relationship; (b) not disclose the other party's Confidential Information to any third party without prior written consent; (c) protect the Confidential Information using at least the same degree of care used to protect its own confidential information, and no less than reasonable care.
+
+4. TERM
+This Agreement remains in effect for 2 years from the effective date. Confidentiality obligations with respect to information disclosed during the term survive for 3 years following termination or expiration of this Agreement.
+
+5. REQUIRED DISCLOSURE
+If a receiving party is required by law or court order to disclose Confidential Information, it will, where legally permitted, provide the disclosing party with prompt written notice so that the disclosing party may seek a protective order.
+
+6. NO LICENSE
+Nothing in this Agreement grants either party any license or rights to the other party's intellectual property, other than the limited right to use Confidential Information as expressly permitted herein.
+
+7. GOVERNING LAW
+This Agreement is governed by the laws of the state specified in the signature block, without regard to conflict of law principles.
+
+STANDARD USE NOTES FOR INTERNAL TEAMS
+This template should be used for early stage partnership discussions. For NDAs involving source code access or joint development work, route to Legal for the enhanced IP protection rider before sending.

@@ -1,0 +1,50 @@
+{
+  "note": "Mock data generated for RAG testing purposes only. Not real employees.",
+  "employees": [
+    {
+      "id": "E1042",
+      "name": "Priya Nair",
+      "department": "Engineering",
+      "role": "Senior Backend Engineer",
+      "location": "Bengaluru, India",
+      "start_date": "2022-03-14",
+      "manager": "E0891"
+    },
+    {
+      "id": "E0891",
+      "name": "Marcus Chen",
+      "department": "Engineering",
+      "role": "Engineering Manager",
+      "location": "San Francisco, USA",
+      "start_date": "2019-07-01",
+      "manager": "E0210"
+    },
+    {
+      "id": "E1198",
+      "name": "Sofia Alvarez",
+      "department": "Product",
+      "role": "Senior Product Manager",
+      "location": "Madrid, Spain",
+      "start_date": "2021-11-08",
+      "manager": "E0455"
+    },
+    {
+      "id": "E1355",
+      "name": "James O'Connor",
+      "department": "Finance",
+      "role": "Financial Analyst",
+      "location": "Dublin, Ireland",
+      "start_date": "2023-06-19",
+      "manager": "E0732"
+    },
+    {
+      "id": "E1420",
+      "name": "Aiko Tanaka",
+      "department": "Legal",
+      "role": "Contracts Counsel",
+      "location": "Tokyo, Japan",
+      "start_date": "2020-09-22",
+      "manager": "E0398"
+    }
+  ]
+}
