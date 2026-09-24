@@ -1,0 +1,10 @@
+## Success Metrics
+
+- Cart recovery rate (primary metric)
+- Saved cart creation rate (secondary)
+- Notification click through rate for the 48 hour reminder
+- No regression in checkout conversion rate for users who do not use this feature
+
+## Open Questions
+
+- Should there be a limit on the number of named saved carts per user? Current proposal is a cap of 10, pending engineering feasibility review
